@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="gb2312"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.retter2012.白药财经"
+        id        = "com.retter2012.云南白药简报"
         version   = "1.0.0">
-    <name>白药财经</name>
+    <name>云南白药简报</name>
 
     <description>
     The beta version of FBC project is forked from beta1. It is ready for market somehow.The team of this project opens the source codes which are based on License of the Apache Software Foundation (ASF). You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
     Open source code ONLY. All rights, excluding the codes, are reserved by the authors, i.e. retter2012.com and jobnet@188.com. Your contribution in these parts is appreciated but cannot change the ownership of the intellectual properties.
-    The use of content (including pictures) of this app is intended for study and comparison. The property belongs to their authors or owners respectively. The content is my own opinion ONLY and should not be used as reference for investment or other purpose.
+
     </description>
 
     <author email="jobnet@188.com">
